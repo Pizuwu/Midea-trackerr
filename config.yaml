@@ -44,10 +44,10 @@ products:
   #     idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
 
 location:
-  postal_code: "74321"
-  city: "Bietigheim-Bissingen"
-  latitude: 48.9543
-  longitude: 9.1316
+  postal_code: 61440"
+  city: "Oberursel"
+  latitude: 50.2033
+  longitude: 8.5769
   radius_km: 25  # Umkreis für Filial-Verfügbarkeit
 
 # Quellen ein-/ausschalten. Schlüssel entsprechen den Adapter-Namen.
